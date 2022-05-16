@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  height: 80px;
+}
+.link{
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+  color: white;
+}
+img{
+ height: 80px;
+ padding-left: 50px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  margin-right: 50px;
+  margin-top: 15px;
+  background-color: rgb(10, 10, 129);
+  border-radius: 20px;
+  color: white;
+}
+
