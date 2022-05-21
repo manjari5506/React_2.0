@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.TT{
+   width: 50px;
+   height: 50px;
+   border: 8px solid green;
+   border-radius: 50%;
+   color: white;
+}
+.FF{
+  width: 50px;
+  height: 50px;
+  border: 8px solid blue;
+  border-radius: 50%;
+  color: white;
+}
+.grey{
+background-color: rgb(227,218,219);
+}
+.list{
+  width: 485px;
+  height: 60px;
+  background-color: white;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 20px;
+}
+.listdiv{
+  text-align: center;
+  margin-left: 390px;
+}
+input{
+  border: 0px;
+  width: 400px;
+  height: 35px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.plus{
+  width: 75px;
+  height: 75px;
+  border: 0px;
+  background-color: white;
+  font-size: x-large;
+  border-radius: 20px;
+  margin-left: 10px;
+}
