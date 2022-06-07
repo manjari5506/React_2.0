@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+}
+.TT{
+  font-family: cursive;
+  text-decoration: line-through;
+  margin-top: 0px;
+}
+.FF{
+  font-family: cursive;
+  margin-top: 0px;
+}
+.check{
+  width: 30px;
+  height: 30px;
+}
+.star{
+  width: 30px;
+  height: 30px;
+  color: rgb(148, 143, 143);
+}
+.maindiv{
+  width: 300px;
+  margin: auto;
+  background-color: rgb(149, 235, 149);
+  padding: 30px;
+}
+.inputdiv{
+  margin-bottom: 100px;
+}
+.oneitem{
+  height: 60px;
+}
+.plus{
+  width: 45px;
+  height: 45px;
+  border: 1px solid rgb(75, 201, 75);
+  background-color: rgb(149, 235, 149);
+}
+.inptag{
+  height: 43px;
+  width: 300px;
+  border: 0px;
+  background-color: rgb(149, 235, 149);
+  padding-left: 10px;
+}
